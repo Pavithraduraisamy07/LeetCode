@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
