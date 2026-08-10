@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
