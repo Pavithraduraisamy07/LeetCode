@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0038-count-and-say](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0038-count-and-say) |
 ## Array
 |  |
 | ------- |
