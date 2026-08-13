@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0184-department-highest-salary) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
