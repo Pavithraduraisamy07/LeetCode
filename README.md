@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0134-gas-station) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
