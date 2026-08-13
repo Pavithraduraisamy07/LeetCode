@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
