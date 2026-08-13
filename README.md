@@ -79,4 +79,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0134-gas-station) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
