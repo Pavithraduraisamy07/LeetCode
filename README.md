@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0038-count-and-say) |
