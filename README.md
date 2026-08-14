@@ -108,4 +108,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
