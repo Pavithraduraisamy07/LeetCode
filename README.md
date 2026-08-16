@@ -9,6 +9,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0179-largest-number) |
 ## Array
 |  |
