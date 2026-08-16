@@ -20,6 +20,7 @@
 | [0018-4sum](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0134-gas-station) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 | ------- |
 | [0050-powx-n](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
