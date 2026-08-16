@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0179-largest-number) |
 ## Array
 |  |
@@ -73,6 +74,7 @@
 | [0061-rotate-list](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
