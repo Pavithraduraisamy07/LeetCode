@@ -67,6 +67,7 @@
 | [0011-container-with-most-water](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -130,6 +131,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
