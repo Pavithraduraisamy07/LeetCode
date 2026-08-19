@@ -131,6 +131,7 @@
 | [0183-customers-who-never-order](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Design
 |  |
 | ------- |
