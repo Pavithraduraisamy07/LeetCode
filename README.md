@@ -12,6 +12,7 @@
 | [0058-length-of-last-word](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0088-merge-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
