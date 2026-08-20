@@ -50,6 +50,7 @@
 | [0002-add-two-numbers](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0078-subsets](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0002-add-two-numbers](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
