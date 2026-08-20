@@ -52,6 +52,7 @@
 | [0029-divide-two-integers](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,4 +180,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
