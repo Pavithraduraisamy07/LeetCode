@@ -13,6 +13,7 @@
 | [0125-valid-palindrome](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0290-word-pattern) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0290-word-pattern) |
 ## Union-Find
 |  |
 | ------- |
