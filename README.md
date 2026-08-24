@@ -35,6 +35,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0231-power-of-two](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,11 +64,13 @@
 | [0136-single-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +99,7 @@
 | [0179-largest-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +125,7 @@
 | [0217-contains-duplicate](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
