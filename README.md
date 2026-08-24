@@ -58,6 +58,7 @@
 | [0258-add-digits](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0292-nim-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,4 +200,24 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
