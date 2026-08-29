@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -225,4 +227,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
