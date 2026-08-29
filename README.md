@@ -14,6 +14,7 @@
 | [0179-largest-number](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0088-merge-sorted-array](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
