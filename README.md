@@ -16,6 +16,7 @@
 | [0290-word-pattern](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
@@ -51,6 +52,7 @@
 | [0053-maximum-subarray](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0125-valid-palindrome](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Pavithraduraisamy07/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
